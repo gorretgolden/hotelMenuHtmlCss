@@ -70,3 +70,8 @@
                 width: 40%;
             }
         }
+        
+        h3:hover {
+            color: orange;
+            font-weight: 400
+        }
